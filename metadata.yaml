@@ -1,0 +1,35 @@
+_repo: Women-of-England_32299
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Bartlett Burleigh
+    birthdate: 1867
+    deathdate: 1953
+    gutenberg_agent_id: '25777'
+    url: http://www.gutenberg.org/2009/agents/25777
+description: ''
+gutenberg_issued: '2010-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32299'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: 'Woman: in all ages and in all countries, Volume 9'
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Women -- England -- History'
+- !lcsh 'Women -- Great Britain -- History'
+tableOfContents: The women of prehistoric Britain -- The women of ancient Britain
+  -- The women of the Anglo-Saxons -- The women of the Anglo-Normans -- The women
+  of the middle ages -- The women of the manors -- The women of the monasteries --
+  The women of the industrial classes -- The women of the transition period -- The
+  women of the Tudor period -- The women of the Commonwealth period -- The women of
+  the Restoration period -- The women of the eighteenth century -- The women of the
+  nineteenth century -- The women of Scotland and Ireland.
+title: Women of England
+url: http://www.gutenberg.org/ebooks/32299
